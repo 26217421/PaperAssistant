@@ -1,2 +1,2 @@
 # PaperAssistant
-一个论文工具可以支持latex图片转公式
+A thesis tool can support latex image conversion formula
